@@ -17,4 +17,4 @@
 
 ![](./assets/images/grocery-dom.jpg)
 
-[Grocery DOM](https://alisson-aguiars2k.github.io/grocery-dom/) 🔗
+[Grocery DOM](https://alisson-aguiars2k.github.io/grocery-bud-dom/) 🔗
